@@ -156,6 +156,7 @@
 /wp-content/themes/linenity/functions/download.php?imgurl=theme-functions.php&name=theme-functions.php
 /wp-content/themes/mTheme-Unus/css/css.php?files=../../../../wp-config.php
 /wp-content/themes/twentynineteen/404.php
+/wp-content/uploads/gravity_forms/logs/gravityforms.txt
 /wp-content/themes/twentytwenty/404.php
 /wp-content/themes/wp-update.php
 /wp-content/uploads/2017/06/cropped-15-180x180.jpeg
